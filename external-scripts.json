@@ -8,7 +8,6 @@
   "hubot-rules",
   "hubot-beer-me",
   "hubot-github-identity",
-  "hubot-github-create-issues",
   "hubot-github-repo-event-notifier",
   "hubot-standup-alarm"
 ]
