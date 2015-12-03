@@ -6,7 +6,10 @@
   "description": "A simple helpful robot for Tipplr",
   "dependencies": {
     "hubot": "^2.17.0",
+    "hubot-beer-me": "^0.1.2",
     "hubot-diagnostics": "0.0.1",
+    "hubot-github-create-issues": "0.0.5",
+    "hubot-github-identity": "^0.10.0",
     "hubot-github-repo-event-notifier": "^1.6.0",
     "hubot-google-images": "^0.2.5",
     "hubot-google-translate": "^0.2.0",
